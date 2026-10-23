@@ -4212,6 +4212,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [NPMScan](https://npmscan.com/mcp) `https://npmscan.com/api/mcp`
   [![NPMScan MCP connector](https://glama.ai/mcp/connectors/com.npmscan/npmscan/badges/score.svg)](https://glama.ai/mcp/connectors/com.npmscan/npmscan)
   🔓 - Checks npm packages for known vulnerabilities, malware, typosquats, risky install scripts and maintainer takeovers.
+- [Odile Gate](https://gate.odilelabs.com) `https://gate.odilelabs.com/mcp`
+  [![Odile Gate MCP connector](https://glama.ai/mcp/connectors/com.odilelabs/gate/badges/score.svg)](https://glama.ai/mcp/connectors/com.odilelabs/gate)
+  🔓 - Gateway for the API your AI agent calls: per-app keys, allowed calls, loop breaker, approvals and an audit log.
 - [Onchain Diary](https://theonchaindiary.com) `https://theonchaindiary.com/api/mcp`
   [![Onchain Diary MCP connector](https://glama.ai/mcp/connectors/com.theonchaindiary/onchain-diary-mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.theonchaindiary/onchain-diary-mcp-server)
   🔓 - Search and read Web3 security education: 120 articles and a 230-term crypto scam glossary.
