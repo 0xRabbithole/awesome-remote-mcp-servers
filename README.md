@@ -2010,6 +2010,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [More AI](https://accounting.amore.cloud/en/fortnox-mcp/) `https://accounting.amore.cloud/mcp`
   [![More AI MCP connector](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.amore.accounting/fortnox)
   🔐 - Fortnox (Swedish accounting): read invoices, ledger, VAT and reports; changes only after the user approves.
+- [Mortgage Tools by Jenny](https://jenny.mortgage/mortgage-tools/) `https://mcp.jenny.mortgage/mcp`
+  [![Mortgage Tools by Jenny MCP connector](https://glama.ai/mcp/connectors/mortgage.jenny/jenny-mortgage-tools/badges/score.svg)](https://glama.ai/mcp/connectors/mortgage.jenny/jenny-mortgage-tools)
+  🔓 - Canadian mortgage calculators in CAD: renewal offers, extra payments, break or stay, debt consolidation.
 
 - [MORVS](https://morvs.ai/api/mcp/) `https://api.morvs.ai/mcp`
   [![MORVS MCP connector](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.morvs-ai/morvs)
