@@ -3598,6 +3598,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![Dominick Prevete: Instant DSCR Term Sheet MCP connector](https://glama.ai/mcp/connectors/com.dominickprevete/instant-term-sheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.dominickprevete/instant-term-sheet)
   🔓 - Written DSCR term sheets by email for business-purpose loans on 1-4 unit US investment property.
 
+- [Dominick Prevete: Instant Fix-and-Flip Term Sheet](https://dominickprevete.com/fix-and-flip-loans#connect) `https://dominickprevete.com/api/mcp/fix-and-flip`
+  [![Dominick Prevete: Instant Fix-and-Flip Term Sheet MCP connector](https://glama.ai/mcp/connectors/com.dominickprevete/instant-fix-and-flip-term-sheet/badges/score.svg)](https://glama.ai/mcp/connectors/com.dominickprevete/instant-fix-and-flip-term-sheet)
+  🔓 - Written fix-and-flip term sheets by email for business-purpose loans to buy and renovate 1-4 unit investment property.
 - [Dubai Data](https://datadubai.ae/mcp/) `https://mcp.datadubai.ae/mcp`
   [![Dubai Data MCP connector](https://glama.ai/mcp/connectors/ae.datadubai/dubai-real-estate/badges/score.svg)](https://glama.ai/mcp/connectors/ae.datadubai/dubai-real-estate)
   🔓 - Dubai property statistics from Land Department open data: prices, rents, yields, sales by area, project and developer.
