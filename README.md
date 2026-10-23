@@ -1073,6 +1073,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Omnara](https://www.omnara.com) `https://app.omnara.com/mcp`
   [![Omnara MCP connector](https://glama.ai/mcp/connectors/com.omnara/omnara/badges/score.svg)](https://glama.ai/mcp/connectors/com.omnara/omnara)
   🔐 - Launch AI agents on any model and machine, message them, read their events, and approve their tool calls.
+- [Omniyond](https://omniyond.com/#mcp) `https://omniyond.com/mcp`
+  [![Omniyond MCP connector](https://glama.ai/mcp/connectors/com.omniyond/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.omniyond/mcp)
+  🔑 - Schedule HTTP calls, screenshots, PDFs, OG images, QR codes, short links and page extract on one API key.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
   🔐 - Look up OpenRouter model metadata and pricing, and run completions.
