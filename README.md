@@ -1129,6 +1129,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OtaKit](https://otakit.app) `https://console.otakit.app/mcp`
   [![OtaKit MCP connector](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit)
   🔐 - Ship over-the-air updates for Capacitor apps: publish releases with approval, control rollouts, read health, revert.
+- [Pandus Accessibility](https://pandus.online/en/accessibility-mcp-server) `https://pandus.online/mcp`
+  [![Pandus Accessibility MCP connector](https://glama.ai/mcp/connectors/online.pandus/accessibility/badges/score.svg)](https://glama.ai/mcp/connectors/online.pandus/accessibility)
+  🔓 - Explains WCAG 2.2 accessibility rules for free; with an account, what to fix on your sites and new checks.
 - [OverlayQA](https://overlayqa.com/mcp/) `https://api.overlayqa.com/mcp`
   [![OverlayQA MCP connector](https://glama.ai/mcp/connectors/com.overlayqa/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.overlayqa/mcp)
   🔐 - Runs accessibility, contrast and design-token audits on any URL and files QA issues in OverlayQA.
