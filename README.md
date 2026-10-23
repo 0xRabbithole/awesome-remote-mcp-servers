@@ -981,6 +981,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Firedrill](https://firedrill.run/agents) `https://mcp.firedrill.run/mcp`
   [![Firedrill MCP connector](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.firedrill-tools/firedrill)
   🔐 - Prepare AI agent simulations, scenarios and synthetic tools, and inspect saved outcomes and evidence. Free to use.
+- [FrontMCP Docs](https://frontmcp.dev/learn/docs-for-your-agent) `https://mcp.frontmcp.dev`
+  [![FrontMCP Docs MCP connector](https://glama.ai/mcp/connectors/dev.frontmcp.mcp/frontmcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.frontmcp.mcp/frontmcp)
+  🔓 - Search and read FrontMCP's documentation, pinned to the FrontMCP version a project uses.
 - [GitDiagram](https://gitdiagram.com) `https://gitdiagram.com/mcp`
   [![GitDiagram MCP connector](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram/badges/score.svg)](https://glama.ai/mcp/connectors/com.gitdiagram/gitdiagram)
   🔓 - Architecture diagrams, explanations and Mermaid source for any public GitHub repository.
