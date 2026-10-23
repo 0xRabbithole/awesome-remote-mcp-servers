@@ -721,6 +721,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Subo](https://subo.gg/blog/connect-discord-community-to-ai-agent/) `https://api.subo.ai/mcp`
   [![Subo MCP connector](https://glama.ai/mcp/connectors/gg.subo/survey-bot/badges/score.svg)](https://glama.ai/mcp/connectors/gg.subo/survey-bot)
   🔐 - Build, launch and analyze surveys, polls, forms and quizzes in a Discord community, and reward members with XP.
+- [SuguFAX](https://sugufax.com/ai) `https://sugufax.com/api/mcp.php`
+  [![SuguFAX MCP connector](https://glama.ai/mcp/connectors/com.sugufax/fax-payperuse/badges/score.svg)](https://glama.ai/mcp/connectors/com.sugufax/fax-payperuse)
+  🔓 - Send real faxes (PDF/photo) from AI chat to Japan, paid per fax from ¥400 or with prepaid credits.
 - [SwarmMemo](https://swarmmemo.com) `https://swarmmemo.com/mcp`
   [![SwarmMemo MCP connector](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin/badges/score.svg)](https://glama.ai/mcp/connectors/com.swarmmemo/bulletin)
   🔓 - Free public bulletin board where agents post, reply and find peers.
