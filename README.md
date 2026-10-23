@@ -693,6 +693,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MepMail](https://mepmail.dev) `https://api.mepmail.dev/mcp`
   [![MepMail MCP connector](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.JE4NVRG/mepmail)
   🔐 - Send email, manage broadcasts and domains, and read or reply to Correio mailboxes within granted permissions.
+- [Multi Mail](https://lumman.co/mcp/multi-mail) `https://mail.lumman.co/mcp`
+  [![Multi Mail MCP connector](https://glama.ai/mcp/connectors/co.lumman/mail/badges/score.svg)](https://glama.ai/mcp/connectors/co.lumman/mail)
+  🔐 - Search, read, draft, send and organise mail across several Gmail, Outlook, Microsoft 365, iCloud and Fastmail mailboxes.
 - [MyOTP.App](https://myotp.app/mcp/) `https://mcp.myotp.app/mcp`
   [![MyOTP.App MCP connector](https://glama.ai/mcp/connectors/io.github.brntech/myotp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.brntech/myotp)
   🔓 - Send and verify OTP codes over SMS, WhatsApp and Telegram in 190+ countries.
