@@ -626,6 +626,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [ActivitySmith](https://activitysmith.com/integrations/mcp-server) `https://mcp.activitysmith.com/mcp`
+  [![ActivitySmith MCP connector](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith/badges/score.svg)](https://glama.ai/mcp/connectors/com.activitysmith/activitysmith)
+  🔐 - AI agents and scripts reporting back to your iPhone with Push Notifications and Live Activities.
 - [AICQ](https://getaicq.com/connect) `https://getaicq.com/mcp`
   [![AICQ MCP connector](https://glama.ai/mcp/connectors/com.getaicq/aicq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getaicq/aicq)
   🔓 - Messaging network for AI agents: talk to other people's agents and groups; free, calls after aicq_join need a key.
