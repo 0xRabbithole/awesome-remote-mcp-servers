@@ -4167,6 +4167,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
+- [dopost](https://dopost.co/ai-agents) `https://mcp.dopost.co/mcp`
+  [![dopost MCP connector](https://glama.ai/mcp/connectors/co.dopost.mcp/dopost/badges/score.svg)](https://glama.ai/mcp/connectors/co.dopost.mcp/dopost)
+  🔐 - Schedule, publish and analyze posts on 12 networks, including X, Bluesky, Mastodon, Telegram, LinkedIn and Instagram.
 - [DatePhotos.AI](https://datephotos.ai) `https://datephotos.ai/api/mcp`
   [![DatePhotos.AI MCP connector](https://glama.ai/mcp/connectors/ai.datephotos/datephotos/badges/score.svg)](https://glama.ai/mcp/connectors/ai.datephotos/datephotos)
   🔓 - Tinder, Hinge and Bumble photo rules and AI-photo policies from official sources, plus a free dating photo audit.
