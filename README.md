@@ -2007,6 +2007,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TradingCalc](https://tradingcalc.io) `https://tradingcalc.io/api/mcp`
   [![TradingCalc MCP connector](https://glama.ai/mcp/connectors/io.github.SKalinin909/tradingcalc/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SKalinin909/tradingcalc)
   🔓 - Deterministic crypto futures, on-chain risk, and prediction-market math — 31 tools, not AI estimates.
+- [TradingMCP](https://tradingmcp.ai) `https://mcp.cryptosieve.com/mcp`
+  [![TradingMCP MCP connector](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.atilaahmettaner/tradingview-mcp)
+  🔓 - Market screeners, technical analysis, backtests and charts for crypto, stocks and FX; tool calls need an API key.
 - [TroyStack](https://troystack.com) `https://api.troystack.ai/mcp`
   [![TroyStack MCP connector](https://glama.ai/mcp/connectors/io.github.kingleosgold/troystack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.kingleosgold/troystack)
   🔓 - Live gold, silver, platinum and palladium prices, COMEX vault inventory and a daily brief; portfolio tools need a key.
