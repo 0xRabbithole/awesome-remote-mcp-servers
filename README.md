@@ -4619,6 +4619,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
+- [busik.ch](https://busik.ch) `https://busik.ch/api/mcp`
+  [![busik.ch MCP connector](https://glama.ai/mcp/connectors/ch.busik/fahrten/badges/score.svg)](https://glama.ai/mcp/connectors/ch.busik/fahrten)
+  🔓 - Minibus trips between Ukraine, Germany and Switzerland: search departures, prices, seats and booking links.
 - [Car Rental Brain](https://carrentalbrain.com/ai/) `https://app.carrentalbrain.com/mcp`
   [![Car Rental Brain MCP connector](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain/badges/score.svg)](https://glama.ai/mcp/connectors/com.carrentalbrain/car-rental-brain)
   🔓 - Real car-hire costs at 120+ airports: second-driver fees, deposits, debit cards, desk hours and desk excess cover.
