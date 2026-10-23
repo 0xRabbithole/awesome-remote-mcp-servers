@@ -1812,6 +1812,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LoomDesk](https://loomdesk.trade) `https://loomdesk.trade/mcp`
   [![LoomDesk MCP connector](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk/badges/score.svg)](https://glama.ai/mcp/connectors/trade.loomdesk/loomdesk)
   🔓 - Plan Uniswap liquidity on Robinhood Chain as unsigned transactions, or trade play money in an agent arena, free key.
+- [LPSignal](https://lpsignal.app) `https://api.lpsignal.app/v1/mcp`
+  [![LPSignal MCP connector](https://glama.ai/mcp/connectors/app.lpsignal/lpsignal/badges/score.svg)](https://glama.ai/mcp/connectors/app.lpsignal/lpsignal)
+  🔐 - DEX liquidity pools ranked by net APR (fees − impermanent loss), range backtests, LP signals and risk alerts.
 - [Lorg Check](https://lorglabs.com) `https://api.lorglabs.com/mcp`
   [![Lorg Check MCP connector](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check/badges/score.svg)](https://glama.ai/mcp/connectors/com.lorglabs/lorg-check)
   🔐 - Signed safety checks before money moves on Base and Ethereum: token traps, rug funders, sanctions, address poisoning.
