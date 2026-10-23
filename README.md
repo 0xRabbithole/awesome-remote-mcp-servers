@@ -1550,6 +1550,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rotate Pilot](https://rotatepilot.com/developers/mcp) `https://rotatepilot.com/api/mcp`
   [![Rotate Pilot MCP connector](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Perufitlife/rotate-pilot)
   🔓 - FAA drone (Part 107) and pilot exam prep: practice questions, readiness diagnostic, METAR/TAF, drone airspace.
+- [Szkoły PL (szkoly-mcp)](https://szkoly.compabase.com) `https://szkoly.compabase.com/mcp`
+  [![Szkoły PL (szkoly-mcp) MCP connector](https://glama.ai/mcp/connectors/io.github.ContentWriterco/szkoly-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ContentWriterco/szkoly-mcp)
+  🔓 - Polish schools and kindergartens from the official register, with per-school exam and matura results vs averages.
 
 ### 🌳 <a name="environment"></a>Environment
 
